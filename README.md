@@ -1,13 +1,27 @@
 # :dragon_face: Trybers and Dragons
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## O que foi desenvolvido
+Neste projeto foi desenvolvido uma lógica para jogo estilo RPG, o mundo de Trybers and Dragons, entendendo e construindo raças, arquétipos, personagens e muito mais, tudo através da aplicação de POO e SOLID usando Typescript.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Contextualizando
+ No universo de Trybers and Dragons - T&D, quase todos os seres que andam por essas terras pertencem a uma **raça** definida.
+
+  As diversas raças (como, por exemplo, Élfica, Orc ou Anã) definem as características das personagens dentro do jogo desde a sua criação, como os seus pontos de vida e a sua destreza. No entanto, existem seres bestiais denominados **monstros** que não possuem uma raça específica, mas podem lutar.
+
+  Alguns seres também possuem uma **energia** e, ao treinarem o uso da energia, passam a possuir um **arquétipo**. De modo geral, os arquétipos definem a vocação de uma personagem, suas habilidades e visão de mundo: como encaram as situações, exploram masmorras ou enfrentam monstros. Como exemplos de arquétipos presentes em T&D, podemos citar guerreiro, mago e necromante.
+
+  Boa parte dos seres podem ser considerados lutadores, bastando para isso possuir alguns atributos específicos. Em muitas ocasiões podem acontecer lutas entre personagens diversas, bem como entre personagens e monstros.
+
+  **_Now, follow ~~the blind~~ the dungeon master!_**
+
+## Habilidades Praticadas no Projeto
+  - O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo.
+  - A habilidade de criar e utilizar Interface
+  - A habilidade de utilizar Composição
+  - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos
+  - O conhecimento e aplicação dos princípios SOLID.
+
+## Linguagens, Ferramentas e Bibliotecas Utilizadas
+[POO](https://blog.betrybe.com/tecnologia/poo-programacao-orientada-a-objetos/)<br>
+[SOLID](https://blog.betrybe.com/linguagem-de-programacao/solid-cinco-principios-poo/)<br>
+[Typescript](https://www.typescriptlang.org/)
